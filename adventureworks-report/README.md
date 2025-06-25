@@ -85,13 +85,14 @@ Custom SQL views were written to prepare and transform raw AdventureWorks tables
 
 ## 📥 Download
 
+## 📥 Download
+
 You can download and explore the full Power BI file and SQL scripts here:
 
-➡️ **[Download AdventureWorks_Report.pbix](./files/AdventureWorks_Report.pbix)**  
-➡️ **[Download SQL Transformation Scripts](./files/sql_transformation_scripts.sql)**
+➡️ **[Download Power BI Report (lab4.pbix)](./AdventureWorks-Report/lab4.pbix)**  
+➡️ **[Download SQL Transformation Script](./AdventureWorks-Report/sql-data-transformation.sql)**
 
 > Open the Power BI file in Power BI Desktop to view the full model, measures, relationships, and interactive visuals.
-
 ---
 
 ## ✅ Outcome
