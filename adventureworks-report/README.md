@@ -82,9 +82,6 @@ Custom SQL views were written to prepare and transform raw AdventureWorks tables
 - Data Visualization Best Practices
 
 ---
-
-## 📥 Download
-
 ## 📥 Download
 
 You can download and explore the full Power BI file and SQL scripts here:
