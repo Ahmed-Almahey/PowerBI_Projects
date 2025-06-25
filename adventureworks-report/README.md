@@ -91,7 +91,6 @@ You can download and explore the full Power BI file and SQL scripts here:
 
 > Open the Power BI file in Power BI Desktop to view the full model, measures, relationships, and interactive visuals.
 
-> Open the Power BI file in Power BI Desktop to view the full model, measures, relationships, and interactive visuals.
 ---
 
 ## ✅ Outcome
