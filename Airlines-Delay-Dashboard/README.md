@@ -23,10 +23,10 @@ This Power BI dashboard analyzes causes of flight delays using real-world airlin
 ## 🖼️ Dashboard Preview
 
 ### 📍 Delays Dashboard  
-![Delays Dashboard](./Screenshot%202025-06-25%20150207.png)
+![Delays Dashboard](./Airlines-Delay-Dashboard/Dashboard_Screenshot.png)
 
 ### 📍 Total & Average Delay  
-![Total & Avg Delay](./Screenshot%202025-06-25%20150221.png)
+![Total & Avg Delay](./Airlines-Delay-Dashboard/Dashboard2_Screenshot.png)
 
 ## 📥 Download the Power BI File
 
